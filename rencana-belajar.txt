@@ -1,5 +1,3 @@
 RENCANA BELAJAR:
-- UTBK
-- SKD
 - IELTS
 - React.js
